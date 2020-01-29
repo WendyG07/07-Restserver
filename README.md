@@ -1,6 +1,8 @@
 # RESTSERVER
-#  Con mongDB ATLAS
-No Olvides instalar las dependecias:
+# Descripción:
+Una pequeña aplicación que utiliza mongoDB Atlas una base de datos online.
+
+# No olvides instalar las dependecias:
 
 
 • mongoose
